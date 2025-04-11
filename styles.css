@@ -1,0 +1,8 @@
+.puntaje{
+    display: flex;
+    gap: 6px;
+}
+
+p {
+    display: flex;
+}
